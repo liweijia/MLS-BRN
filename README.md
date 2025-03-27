@@ -9,7 +9,7 @@
 
 ## 📜 Introduction
 
-This repository contains the official codes for MLS-BRN (CVPR 2024), our multi-level supervised building reconstruction network that can flexibly utilize training samples with different annotation levels.
+This repository contains the official codes for MLS-BRN (CVPR 2024), a Multi-Level Supervised Building Reconstruction Network that can flexibly utilize training samples with different annotation levels.
 
 - We design MLS-BRN, a multi-level supervised building reconstruction network, which consists of new tasks and modules to enhance the relation between different components of a building instance and alleviate the demand on 3D annotations.
 - We propose a multi-level training strategy that enables the training of MLS-BRN with different supervision levels to further improve the 3D reconstruction performance.
